@@ -13,8 +13,7 @@ public:
             
 
         }
-        int k;
-        k=nums.size();
-        return k;
+
+        return nums.size();
     }
 };
