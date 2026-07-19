@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
