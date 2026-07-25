@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
