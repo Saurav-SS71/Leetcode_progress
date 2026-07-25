@@ -1,12 +1,9 @@
 class Solution {
 public:
-    int maxProduct(int n) {;
-        vector<int> V;
-        while(n>0){
-            V.push_back(n%10);
-            n=n/10;
+    int maxProduct(int n) {
+        string s=to_string(n);
+        sort(s.begin(),s.end());
+        int a=(s[s.size()-1]-'0')*(s[s.size()-2]-'0');
+        return a;
         }
-        sort(V.begin(),V.end());
-        return V[V.size()-1]*V[V.size()-2];
-    }
 };
