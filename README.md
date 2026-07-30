@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0344-reverse-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
