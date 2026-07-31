@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0704-binary-search) |
 ## Prefix Sum
