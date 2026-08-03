@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3536-maximum-product-of-two-digits) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -224,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
