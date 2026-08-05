@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -249,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
