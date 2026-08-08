@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
