@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1021-remove-outermost-parentheses) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -234,11 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
