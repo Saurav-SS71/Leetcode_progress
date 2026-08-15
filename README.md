@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
