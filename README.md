@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0056-merge-intervals) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
