@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0876-middle-of-the-linked-list) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 ## Ordered Set
