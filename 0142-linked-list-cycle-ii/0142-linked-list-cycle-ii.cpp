@@ -9,12 +9,24 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*, int > M;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            M[temp]++;
-            if(M[temp]>1){return temp;}
-            temp=temp->next;
+        ListNode* fast=head;
+        ListNode* slow=head;
+        int yes=0;
+
+        if(fast==NULL||fast->next==NULL){return NULL;}
+        fast=fast->next->next;
+        slow=slow->next;
+        while(fast!=NULL&&fast->next!=NULL){
+            if(slow==fast){yes=1;slow=head;break;}
+            fast=fast->next->next;
+            slow=slow->next;
+        }
+        if(slow==fast){return slow;}
+        if(yes==1){
+            while(true){
+                slow=slow->next;fast=fast->next;
+                if(slow==fast){return slow;}
+            }
         }
         return NULL;
     }
