@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0540-single-element-in-a-sorted-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0704-binary-search) |
