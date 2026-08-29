@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0709-to-lower-case) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
