@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0877-stone-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0414-third-maximum-number) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
