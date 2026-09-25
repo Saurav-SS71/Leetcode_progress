@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0875-koko-eating-bananas) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
