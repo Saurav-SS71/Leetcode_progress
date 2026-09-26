@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0876-middle-of-the-linked-list) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0485-max-consecutive-ones) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0506-relative-ranks) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0540-single-element-in-a-sorted-array) |
