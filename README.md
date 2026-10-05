@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0300-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
