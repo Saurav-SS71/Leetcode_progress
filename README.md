@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -467,4 +468,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
