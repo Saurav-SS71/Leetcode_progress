@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0704-binary-search) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
@@ -375,12 +377,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saurav-SS71/Leetcode_progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Minimax
