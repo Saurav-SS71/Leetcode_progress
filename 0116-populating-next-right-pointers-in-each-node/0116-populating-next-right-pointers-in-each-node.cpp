@@ -20,42 +20,19 @@ class Solution {
 public:
     Node* connect(Node* root) {
         if(!root) return NULL;
-        vector<vector<Node*>> V;
-        int index=0;
-        Level(root,V,index);
-        for(int i=0; i<V.size(); i++){
-            for(int j=0 ; j<V[i].size()-1; j++){
-                V[i][j]->next=V[i][j+1];
+        Node* Root=root;
+        Node* temp=root;
+        while(Root!=NULL){
+        while(Root&&Root->left){
+            Root->left->next=Root->right;
+            if(Root->next!=NULL){
+                Root->right->next=Root->next->left;
             }
-            V[i][V[i].size()-1]->next=NULL;
+            Root=Root->next;
+        }
+        temp=temp->left;
+        Root=temp;
         }
         return root;
     }
-
-    // save the pointers address in the level order and then use next to point to other right element and at the end point it to the null pointer;
-
-    void Level(Node* root, vector<vector<Node*>>& V, int index){
-        if(!root) {
-            return;
-        }
-        if(index==V.size()){
-            V.resize(V.size()+1);
-        }
-        V[index].push_back(root);
-
-        Level(root->left,V,index+1);
-        Level(root->right,V,index+1);
-    }
 };
-
-
-
-
-
-
-
-
-
-
-
-
